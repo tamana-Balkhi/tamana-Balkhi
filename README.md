@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**tamana-Balkhi/tamana-Balkhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there👋, I'm tamana
+A software developer from Afghanistan🇦🇫
+Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) Bootstrap
+Git  GitHub  Visual Studio Code
+
+
+
+🎓 I have a bachelor's degree in Computer Science (software engineering). Obtained from the Kabul University, Afghanistan.
+
+👩‍💻 I’m currently studying and training to become a Full-Stack Software Developer in a remote, collaborative and multicultural environment at Microverse.
+
+🌱 I’m currently learning JavaScript.
+
+💻 All my projects are available here
+
+👯 I’m looking to collaborate on Web Projects
+
+📫 Reach me on: 📧 tamana.balkhi1377@gmail.com
+
+✨ Interests: coding, reading books, cooking, art, Designing.
+
+
+
+
+
+Skills
+Git GitHub HTML CSS Sass Bootstrap JavaScript Webpack
+
+        
+
+About
+This is a special readme file for my GitHub profile which shows the highlights about me, my works and activities.
+
