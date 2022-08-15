@@ -22,17 +22,6 @@ Git  GitHub  Visual Studio Code
 
 📫 Reach me on: 📧 tamana.balkhi1377@gmail.com
 
-✨ Interests: coding, reading books, cooking, art, Designing.
+✨ Interests: coding, reading books,driving.
 
-
-
-
-
-Skills
-Git GitHub HTML CSS Sass Bootstrap JavaScript Webpack
-
-        
-
-About
-This is a special readme file for my GitHub profile which shows the highlights about me, my works and activities.
 
