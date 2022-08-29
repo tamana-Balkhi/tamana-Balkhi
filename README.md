@@ -9,16 +9,11 @@ Currently, I am a remote student at Microverse training to become a Full-Stack D
 Git  GitHub  Visual Studio Code
 
 
-
-🎓 I have a bachelor's degree in Computer Science (software engineering). Obtained from the Kabul University, Afghanistan.
-
 👩‍💻 I’m currently studying and training to become a Full-Stack Software Developer in a remote, collaborative and multicultural environment at Microverse.
 
 🌱 I’m currently learning JavaScript.
 
 💻 All my projects are available here
-
-👯 I’m looking to collaborate on Web Projects
 
 📫 Reach me on: 📧 tamana.balkhi1377@gmail.com
 
