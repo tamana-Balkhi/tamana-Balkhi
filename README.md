@@ -7,9 +7,9 @@
 
 ### :woman_technologist: About Me :
 
-- 🎓 I have a bachelore degree in Computer Science (software engineering). Obtained from Kabul university.
+- 🎓 I have a bachelor's degree in Computer Science (software engineering). Obtained from Kabul University.
 
-- 👩‍💻 I have a Full-Stack Software Developement certificate, obtained from [Microverse](https://github.com/microverseinc).
+- 👩‍💻 I have a Full-Stack Software Development certificate, obtained from [Microverse](https://github.com/microverseinc).
 
 - ❤️ Love to work with JS | React | Redux | RoR
 
